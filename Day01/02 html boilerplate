@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<!-- tells the version of html-->
+<html lang="en" dir="ltr"> <!-- now everything is html code-->
+  <head> <!-- whole info of webpage and how to handle it -->
+    <meta charset="utf-8"> <!-- gives extra meta(associate data to file)-->
+    <title>Ritik's Personal Site</title> <!-- title of Page-->
+  </head>
+  <body>
+  <h1>Ritik Dagar</h1>
+  
+  </body>
+</html>
