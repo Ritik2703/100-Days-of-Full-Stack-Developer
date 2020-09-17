@@ -55,8 +55,17 @@
 
 ```
 ------------------------------------------------------------------------------------------------------------------------------------
-# Atom Shortcuts - https://github.com/nwinkler/atom-keyboard-shortcuts
+# Atom Shortcuts - 
+https://github.com/nwinkler/atom-keyboard-shortcuts
 
-# HTML Cheatsheet - https://docs.emmet.io/cheat-sheet/
+# HTML Cheatsheet - 
+https://docs.emmet.io/cheat-sheet/
 
-# Meta data - http://www.fileformat.info/info/charset/UTF-8/list.htm
+# Meta data/tag - 
+https://www.w3schools.com/tags/tag_meta.asp
+http://www.fileformat.info/info/charset/UTF-8/list.htm
+https://unicode-table.com/de/sets/
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
+
+
