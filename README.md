@@ -38,10 +38,9 @@
 
 <hr size="3 noshade>
 
-## Boilerplate html code
+# HTML Boilerplate code
 
 `````
-
 <!DOCTYPE html> 
 <!-- tells the version of html-->
 <html lang="en" dir="ltr">   <!-- now everything is html code-->
@@ -53,8 +52,6 @@
     
   </body>
 </html>
-
-
 `````
 ------------------------------------------------------------------------------------------------------------------------------------
 
