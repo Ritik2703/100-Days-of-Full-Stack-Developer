@@ -3,14 +3,18 @@
 # Radhe Radhe
 
 <hr size="3 noshade>
-Day 1 (Intro to HTML)
+          
+# Day 1 (Intro to HTML)
 
-##   Headings- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+##   Headings- 
+##             https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 ##             https://www.w3schools.com/html/html_headings.asp
 ##             https://devdocs.io/html/
 
 <h1> to <h6> 6 heading tags
+  
 <center> 
+  
 ```
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
@@ -24,8 +28,11 @@ Day 1 (Intro to HTML)
 <hr> -  make a line
 
 ## Comment
+
+```
 <!-- comment -->
 
+```
 
 
 
