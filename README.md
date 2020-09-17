@@ -38,5 +38,26 @@
 
 <hr size="3 noshade>
 
+## Boilerplate html code
 
+```
+<!DOCTYPE html> 
+<!-- tells the version of html-->
+<html lang="en" dir="ltr"> <!-- now everything is html code-->
+  <head> <!-- whole info of webpage and how to handle it -->
+    <meta charset="utf-8"> <!-- gives extra meta(associate data to file)-->
+    <title>Ritik's Personal Site</title> <!-- title of Page-->
+  </head>
+  <body>
+    
+  </body>
+</html>
+```
 
+<hr size='3' noshade>
+
+# Atom Shortcuts - https://github.com/nwinkler/atom-keyboard-shortcuts
+
+# HTML Cheatsheet - https://docs.emmet.io/cheat-sheet/
+
+# Meta data - http://www.fileformat.info/info/charset/UTF-8/list.htm
