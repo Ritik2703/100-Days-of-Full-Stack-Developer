@@ -40,7 +40,8 @@
 
 ## Boilerplate html code
 
-```
+`````
+
 <!DOCTYPE html> 
 <!-- tells the version of html-->
 <html lang="en" dir="ltr">   <!-- now everything is html code-->
@@ -53,19 +54,21 @@
   </body>
 </html>
 
-```
+
+`````
 ------------------------------------------------------------------------------------------------------------------------------------
-# Atom Shortcuts - 
+
+# Atom Shortcuts 
 https://github.com/nwinkler/atom-keyboard-shortcuts
 
 # HTML Cheatsheet - 
 https://docs.emmet.io/cheat-sheet/
 
 # Meta data/tag - 
-https://www.w3schools.com/tags/tag_meta.asp
-http://www.fileformat.info/info/charset/UTF-8/list.htm
-https://unicode-table.com/de/sets/
-https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+1. https://www.w3schools.com/tags/tag_meta.asp
+2. http://www.fileformat.info/info/charset/UTF-8/list.htm
+3. https://unicode-table.com/de/sets/
+4. https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
 
 
