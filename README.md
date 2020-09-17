@@ -35,9 +35,6 @@
 
 ```
 
-
-<hr size="3 noshade>
-
 # HTML Boilerplate code
 
 `````
@@ -55,11 +52,12 @@
 `````
 ------------------------------------------------------------------------------------------------------------------------------------
 
-# Atom Shortcuts 
-https://github.com/nwinkler/atom-keyboard-shortcuts
 
 # HTML Cheatsheet - 
 https://docs.emmet.io/cheat-sheet/
+
+# Atom Shortcuts 
+https://github.com/nwinkler/atom-keyboard-shortcuts
 
 # Meta data/tag - 
 1. https://www.w3schools.com/tags/tag_meta.asp
