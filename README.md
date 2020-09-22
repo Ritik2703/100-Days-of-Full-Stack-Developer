@@ -228,3 +228,9 @@ Use the CSS padding property for space inside the border
 Use the CSS margin property for space outside the border
   ````
 
+# Day 2 (CSS) - https://www.w3schools.com/css/default.asp
+
+# Day 3,4 (BootStrap) - https://www.w3schools.com/bootstrap4/default.asp
+
+# Day 5 (Java Script) - https://www.w3schools.com/js/default.asp
+
